@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="jeferson@linuxtips.com.br"
+LABEL maintainer=""
 LABEL version="1.0"
 
 ARG PROMETHEUS_VERSION=2.13.0

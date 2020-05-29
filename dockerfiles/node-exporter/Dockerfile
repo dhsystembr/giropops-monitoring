@@ -1,6 +1,6 @@
 FROM golang AS building
 
-LABEL maintainer="jeferson@linuxtips.com.br"
+LABEL maintainer=""
 LABEL version="1.0"
 
 ENV exporter_version 0.18.1
