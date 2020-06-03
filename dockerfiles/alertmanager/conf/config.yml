@@ -7,4 +7,4 @@ receivers:
     - name: 'rocketchat'
       webhook_configs:
           - send_resolved: false
-            url: '${WEBHOOK_URL}'
+            url: 'http://192.168.0.36:3080/hooks/vTh6i2DZBhAd9xi3F/6sryY9doW7kpWTXbGEciuWazzcPJcZ54QYsEkre2u7QjqcJK'
